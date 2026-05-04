@@ -1,6 +1,6 @@
 # Student Burnout Data Analysis: pandas vs Polars vs Spark
 
-Phase 1 project ini membandingkan pandas, Polars, dan PySpark untuk menjalankan analisis data yang sama pada dataset CSV lokal berukuran menengah.
+Project ini membandingkan pandas, Polars, dan PySpark untuk menjalankan analisis data yang sama pada dataset CSV lokal berukuran menengah.
 
 Project ini tidak berfokus pada machine learning. Fokus utamanya adalah data processing, aggregation, benchmarking, dan correctness validation.
 
