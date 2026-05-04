@@ -97,7 +97,7 @@ Benchmark dan validasi global:
 Hasil benchmark pada run lokal terakhir:
 
 | Tool | Total runtime seconds | Peak memory MB |
-| --- | ---: | ---: | ---: |
+| --- | ---: | ---: |
 | pandas | 3.0299 | 553.68 |
 | Polars | 0.8659 | 491.65 |
 | Spark | 19.6320 | 956.46 |
