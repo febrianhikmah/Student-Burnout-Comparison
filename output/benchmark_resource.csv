@@ -1,0 +1,4 @@
+tool,peak_memory_mb,output_size_mb
+pandas,553.68,0.0
+polars,491.65,0.0
+spark,956.46,0.0

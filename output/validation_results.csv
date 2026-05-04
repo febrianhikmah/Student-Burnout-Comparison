@@ -1,0 +1,13 @@
+file,metric,status,notes
+dataset_summary.csv,summary_values_polars,PASS,
+dataset_summary.csv,summary_values_spark,PASS,
+missing_values.csv,missing_count_polars,PASS,
+missing_values.csv,missing_count_spark,PASS,
+burnout_distribution.csv,distribution_values_polars,PASS,
+burnout_distribution.csv,distribution_values_spark,PASS,
+avg_mental_health_by_burnout.csv,average_values_polars,PASS,
+avg_mental_health_by_burnout.csv,average_values_spark,PASS,
+sleep_hours_vs_burnout.csv,average_values_polars,PASS,
+sleep_hours_vs_burnout.csv,average_values_spark,PASS,
+academic_pressure_vs_burnout.csv,average_values_polars,PASS,
+academic_pressure_vs_burnout.csv,average_values_spark,PASS,
